@@ -349,6 +349,9 @@ body {
   .section-2-images-plot {
     flex-wrap: wrap;
   }
+  .table-responsive {
+    max-width: 40%;
+  }
 }
 
 .border-style {
