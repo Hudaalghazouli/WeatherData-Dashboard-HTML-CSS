@@ -14,7 +14,7 @@ The website has seven pages:
 
 - A [landing page](#landing-page) containing:
 
-  - Section-1: Summary of the project.
+  - Section-1: Summary of the project
 
   - Section-2: Visualizations page. by clicking an image in the visualizations section should you to that visualization.
 
