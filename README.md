@@ -4,7 +4,7 @@
 
 - Created individual pages for each plot (Temp, Humidity, Cloudiness, and WindSpeed) and each one of these pages includes visualizations.
 
-- Build a comparison page for all the plots.
+- Build a comparison page for all the plots
 
 - Build another page to show the data that we used to create the plots.
 
