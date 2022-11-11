@@ -1,4 +1,4 @@
-# Web Design Challenge
+# Web Design Challenge:
 
 - Created a website by using visualizations in the images folder which were results of a previous challenge (Python-APIs Challenge).
 
