@@ -1,5 +1,5 @@
 # Web Design Challenge
-J
+
 - Created a website by using visualizations in the images folder which were results of a previous challenge (Python-APIs Challenge).
 
 - Created individual pages for each plot (Temp, Humidity, Cloudiness, and WindSpeed) and each one of these pages includes visualizations.
